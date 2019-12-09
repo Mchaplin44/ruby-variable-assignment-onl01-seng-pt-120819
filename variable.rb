@@ -1,3 +1,1 @@
-def greeting("Hello world")
-  greeting = "Hello World"
-end
+greeting = "Hello World"
